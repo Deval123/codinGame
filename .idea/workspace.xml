@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1804315-7bea-4fe9-90b6-138cde0c4895" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codinGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Approximate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BoxArranger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Formula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Presence_nombre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Text.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cogi.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/coustomer.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/docker_properties.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entretien/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entretien/functionalInterface/ConsumerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entretien/functionalInterface/FunctionInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entretien/functionalInterface/PredicateInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entretien/functionalInterface/SupplierInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/provinces.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/query.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/scrum1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/scrum3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/scrum4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/scrum5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vehicle.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RKgQrkN6V15UtV3Ze9qhQJs4vh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/d.kamguia.tchuenkam/IdeaProjects/codinGame&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.entretien.Test" />
+      <module name="codinGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.entretien.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1804315-7bea-4fe9-90b6-138cde0c4895" name="Changes" comment="" />
+      <created>1687004173578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687004173578</updated>
+    </task>
+    <servers />
+  </component>
+</project>
