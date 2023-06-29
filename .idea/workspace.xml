@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1804315-7bea-4fe9-90b6-138cde0c4895" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/angular/angular.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codin/ProfitPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/angular/codi.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Approximate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/Approximate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BoxArranger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/BoxArranger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Formula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/Formula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Presence_nombre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/Presence_nombre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/Temperature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Text.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/Text.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cogi.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/cogi.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/coustomer.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/coustomer.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/docker_properties.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/docker_properties.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/provinces.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/provinces.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/query.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/query.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/question" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/question" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/scrum1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/scrum1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/scrum3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/scrum3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/scrum4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/scrum4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/scrum5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/scrum5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vehicle.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/vehicle.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codin/coustomer.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/coustomer.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

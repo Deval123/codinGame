@@ -2,7 +2,7 @@
 -- The result should be sorted in descending order of average number of items.
 -- The average number of items must be given in decimal numbers.
 -- Display only 'CUSTOMER_ID', 'FIRSTNAME', 'LASTNAME', and 'AVG' (average number of items) columns.
---SQL request(s) below
+-- SQL request(s) below
 SELECT
   customer.customer_id,
   customer.firstname,
@@ -27,7 +27,7 @@ ORDER BY
 -- Modifier la requête sql pour sélectionner tous les produits (product) ayant un prix strictement supérieur à 100.
 -- Le résultat doit être trié par ordre décroissant de prix (price).
 -- Afficher uniquement les colonnes CUSTOMER_ID, FIRSTNAME, LASTNAME et AVG le nombre d'article acheté
---SQL request(s) below
+-- SQL request(s) below
 SELECT
     c.customer_id AS CUSTOMER_ID,
     c.firstname AS FIRSTNAME,
@@ -49,4 +49,8 @@ GROUP BY
     c.lastname
 ORDER BY
     p.price DESC;
-
+-- pour tous les produits calculer la valeur unitaire value/ available_stock sous forme de nombre decimal
+-- s'il n'y a pas de stock, renvoyer la valeur nulle trier les lignes par  ordre décroissant de unit_value, plus par ordre croissant de product_id
+-- SQL request(s) below
+SELECT product_id, ROUND(CAST(value AS DECIMAL) / available_stock, 2) AS unit_value
+FROM product;
