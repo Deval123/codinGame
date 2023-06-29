@@ -1,4 +1,4 @@
-package main.java;
+package main.java.codin;
 
 class Player {
     public static String solve(int width, int height, int length, int mass) {

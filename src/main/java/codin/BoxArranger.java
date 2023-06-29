@@ -1,4 +1,4 @@
-package main.java;
+package main.java.codin;
 
 public class BoxArranger {
     public static String solve(int clawPos, int[] boxes, int boxInClaw) {

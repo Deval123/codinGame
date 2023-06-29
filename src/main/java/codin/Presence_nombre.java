@@ -1,4 +1,4 @@
-package main.java;
+package main.java.codin;
 // le but est de verifier la presence dun nombre dans un tableau.
 public class Presence_nombre {
     static boolean exists(int[] ints, int k) {

@@ -1,4 +1,4 @@
-package main.java;
+package main.java.codin;
 
  class Node {
     // keep these fields

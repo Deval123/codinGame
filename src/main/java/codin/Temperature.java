@@ -1,4 +1,4 @@
-package main.java;
+package main.java.codin;
 
 public class Temperature {
     static double closestToZero(double[] ts){

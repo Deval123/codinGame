@@ -1,4 +1,4 @@
-package main.java;
+package main.java.codin;
 
  interface Formula {
     double calculate(int a);
