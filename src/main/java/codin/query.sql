@@ -58,3 +58,26 @@ GROUP BY
   c.lastname
 ORDER BY
   p.price DESC;
+
+Modifier la requête sql pour sélectionner tous les produits (product) ayant un prix strictement supérieur à 100.
+Le résultat doit être trié par ordre décroissant de prix (price).
+Afficher uniquement les colonnes PRODUCT_ID, NAME, PRICE.
+
+SELECT PRODUCT_ID, NAME, PRICE
+FROM product
+WHERE PRICE > 100
+ORDER BY PRICE DESC;
+
+
+redigez une requete qui renvoie les meilleurs joueurs de basketball. nous definissons les meilleurs joueurs de basketball comme les personne dont le ppg est superieurou égal à 20, 0, le rpg et le apg sont tout deux supérieurs ou égaux à 5,0, et le games_played supérieur ou égal à 65
+
+conditions :
+colonnes attendues: first_name,last_name dans cet ordre
+TRIER LES LIGNES PAR last_name puis par first_name dans l'ordre alphabetique
+SELECT first_name, last_name
+FROM basketball_player_stats
+WHERE ppg >= 20.0
+  AND rpg >= 5.0
+  AND apg >= 5.0
+  AND games_played >= 65
+ORDER BY last_name, first_name;

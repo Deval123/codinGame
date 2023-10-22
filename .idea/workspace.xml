@@ -5,9 +5,277 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1804315-7bea-4fe9-90b6-138cde0c4895" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/angular/codi.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/Quest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/animal/Hopper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codin/BlockOrdonner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codin/ExceptionHierarchy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codin/LuckyMoneyDistributor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codin/PlayerSole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codin/getOdersWithList.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codin/reférence_methodew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codin/staticInterneClass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/insert/Grasshopper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/insert/HopCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jungle/RainForest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/record/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stocks/Bond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/textBlock/ClownFish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/textBlock/KitchenSink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/textBlock/PoliceBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/textBlock/Salmon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/textBlock/TextBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/BalanceUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/CriticalSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/HelloRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/MultiPrinterThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/MyThreadClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/PrinterThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/SimplestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/Thread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/TreadTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ArraysDeclaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/DefaultValuesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/FindMinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/FindMinimumMxN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/LabeledBreakOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/LabeledSkip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/MaClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/MultiArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ParameterPass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/Passing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/RQ810A40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/Seasons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/SeasonsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/SeasonsIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/SeasonsIV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/SeasonsV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/SwitchingFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/SwitchingOnAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/TakeARide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/TestMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chap3/Bend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chap3/Bottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chap3/Dance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chap3/Hammer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chap3/Performance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chap3/Pump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chap3/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chap3/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chap3/Sing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chap3/Sing1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chap3/Speak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chap3/Swimming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chap3/Tolls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chap3/Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chap3/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chap3/Woods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/Dinosaur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/DoMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/FindMovie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/IceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/Initech.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/Kansas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/Opossum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/Penguins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/PrintNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/Scientist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/Study.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/Summary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/ThePlan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/chater2/ToyShare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/classes/Canvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/classes/MyOtherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/classes/PlayerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/classes/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/classes/Polymorphism2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/classes/RQ43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/classes/RQ800A20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/classes/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/dateTime/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/dateTime/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/dateTime/MathFuntion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/dateTime/RQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/exception/ARMy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/exception/ExceptionPropagationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/exception/Nesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/exception/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/exception/TryTwisting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Accountant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Bounce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Exterminate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Itinerary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Moon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Race.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Resume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Riddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Rose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/SearchList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Sneaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/TaffyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/ThreadSafeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Turing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/in_out/Vegetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/jdbcExam/ExamQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/nested/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/Paging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap1/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap1/River.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap14/AccessingPathElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap14/CopyingFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap14/CopyingFilesIOStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap14/CopyingFilesIntoDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap14/CreateDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap14/CreatingFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap14/CreatingPartOfPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap14/CreatingPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap14/MovingRenamingPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap14/NormalizingPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap14/RelativizingPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap14/ResolvingPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap14/ViewingPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap2/CandyCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap3/Squawk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap3/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/CheckIfHopper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/CheckIfSwims.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/CheckTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/ConsumerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/ConverterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/Crow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/EmptyStringCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/EmptyStringCreatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/FunctionImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/PredicateImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/StringChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/StringCheckerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/StringCopier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/StringCopierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/StringParameterChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/StringParameterCheckerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/StringStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/StringStartImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/StringTwoParameterChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/StringTwoParameterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/SupplierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/TraditionalSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/UnaryOperatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/convenienceMethods/BooleanSupplierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/convenienceMethods/ConvConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/convenienceMethods/ConvFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/convenienceMethods/ConvPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/exercice/Climb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/exercice/Climber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/exercice/Fantasy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/exercice/Hyena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/exercice/Panda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/exercice/Sloth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/exercice/Vet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap8/exercice/Yawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/CallingBasicHashMapMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/CallingBasicTreeMapMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/CollectionAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/CollectionCheckContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/CollectionClear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/CollectionCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/CollectionEquality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/CollectionIterating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/CollectionRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/CollectionRemoveWithCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/ConvertingFromListToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/CreatingListWithConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/CreatingListWithFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/GettingValuesSafely.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/IteratingThroughMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/MergingData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/PuttingIfAbsent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/ReplacingValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/SortingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/UnboxingNulls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/WorkingWithListMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/WorkingWithQueueAndDequeMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/WorkingWithSetMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/casting_compareTo_argument/LegacyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/checking_null/MissingDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/comaring_data_with_comparator/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/comparable/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/comparable/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/comparing_multiple_fields/MultiFieldComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/comparing_multiple_fields/Squirrel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/Alpaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/Crate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/CrateRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/LowerBoundedWildcards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/More.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/MyComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/Platypus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/Shippable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/ShippableRobotCrate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/SubAlpaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/UnboundedWildcards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/UpperBoundedWildcards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/WorkingWithGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chap9/working_with_generics/Z.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/ChainingOptionals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/Collecting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/CollectingIntoMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/CreateOptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/CreatingPrimitiveStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/CreatingStreamSources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/EmptyOptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/Filtering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/FindAny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/GroupingMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/Iterating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/LinkingStreamsToUnderlyingData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/Mapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/MappingMethodsBetweenStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/Matching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/PartitioningMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/PrintingStreamReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/PuttingTogetherPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/QuestionsReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/Reducing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/Stream_pipeline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/SummarizingStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/TakingPeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/TeeingCollectors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/UsingBasicCollectors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/UsingFlatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/UsingOptionalWithPrimitiveStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/UsingSpliterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/ocp_newBook/chat10/WorkingWithPrimitiveStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/static_initializer/ExceptionInStaticInitBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/static_initializer/FirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/static_initializer/Initialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/static_initializer/InstanceInitializersII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/static_initializer/MatrixData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/static_initializer/MyClassInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/static_initializer/NonStaticForwardReferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/static_initializer/RQ100_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/static_initializer/TestOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codin/coustomer.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/coustomer.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/angular/codi.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/angular/codi.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codin/Text.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/Text.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codin/query.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codin/query.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +286,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -41,21 +310,53 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/d.kamguia.tchuenkam/IdeaProjects/codinGame&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/d.kamguia.tchuenkam/IdeaProjects/codinGame/src/main/java/codin&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\d.kamguia.tchuenkam\IdeaProjects\codinGame\src\main\java\codin" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\d.kamguia.tchuenkam\IdeaProjects\codinGame\src\main\java\codin" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.java.ocp_newBook.chap9" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.MaxProfitFinder">
-    <configuration name="MaxProfitFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.codin.MaxProfitFinder" />
+  <component name="RunManager" selected="Application.LuckyMoneyDistributor">
+    <configuration name="CopyingFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp.ocp_newBook.chap14.CopyingFiles" />
+      <module name="codinGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ocp.ocp_newBook.chap14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateDirectory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp.ocp_newBook.chap14.CreateDirectory" />
+      <module name="codinGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ocp.ocp_newBook.chap14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LuckyMoneyDistributor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.codin.LuckyMoneyDistributor" />
       <module name="codinGame" />
       <extension name="coverage">
         <pattern>
@@ -67,12 +368,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.entretien.Test" />
+    <configuration name="NormalizingPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp.ocp_newBook.chap14.NormalizingPath" />
       <module name="codinGame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.entretien.*" />
+          <option name="PATTERN" value="ocp.ocp_newBook.chap14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreadTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.TreadTester" />
+      <module name="codinGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,8 +396,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxProfitFinder" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.LuckyMoneyDistributor" />
+        <item itemvalue="Application.TreadTester" />
+        <item itemvalue="Application.CopyingFiles" />
+        <item itemvalue="Application.CreateDirectory" />
+        <item itemvalue="Application.NormalizingPath" />
       </list>
     </recent_temporary>
   </component>
